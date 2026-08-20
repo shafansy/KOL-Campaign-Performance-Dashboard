@@ -32,14 +32,9 @@ Key information presented in the dashboard includes:
 - Performance across product categories
 - Engagement Rate (ER)
 
-### Dashboard Preview
-![KOL Campaign Performance Dashboard](dashboard/Dashboard Performance KOL Campaign.pdf)
-The complete dashboard visualization is available in PDF format in the `dashboard/` folder.
-
 ## Tools
 - Google Sheets
 - Looker Studio
-
 
 ## Project Structure
 ```text
@@ -47,6 +42,7 @@ KOL-Campaign-Performance-Dashboard/
 │
 ├── dashboard/
 │   └── Dashboard Performance KOL Campaign.pdf
+|   └── Dashboard Looker Link.txt
 │
 ├── data/
 │   └── Data Campaign KOL.csv
