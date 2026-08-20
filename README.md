@@ -33,7 +33,7 @@ Key information presented in the dashboard includes:
 - Engagement Rate (ER)
 
 ### Dashboard Preview
-![KOL Campaign Performance Dashboard](dashboard/dashboard.pdf)
+![KOL Campaign Performance Dashboard](dashboard/Dashboard Performance KOL Campaign.pdf)
 The complete dashboard visualization is available in PDF format in the `dashboard/` folder.
 
 ## Tools
